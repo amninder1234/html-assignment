@@ -6,7 +6,7 @@ body {
 
 /* Same background color for header and footer */
 header, footer {
-    background-color: #e6e6e6;
+    background-color: yellow;
     padding: 10px;
 }
 
