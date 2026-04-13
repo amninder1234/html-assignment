@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bright Spark Studio</title>
+</head>
+
+<body>
+
+<!-- Header -->
+<header>
+  <img src="images/logo.png" alt="Bright Spark Studio Logo" width="120">
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#team">Team</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- Home -->
+<section id="home">
+  <h1>Welcome to Bright Spark Studio</h1>
+  <p>We design simple, modern, and creative digital experiences for businesses and brands.</p>
+  <img src="images/main-banner.jpg" alt="Workspace banner" width="600">
+</section>
+
+<!-- About -->
+<section id="about">
+  <h2>About Us</h2>
+  <img src="images/about-us.jpg" alt="Our workspace" width="400">
+  <p>Bright Spark Studio focuses on creating strong digital solutions. We help brands grow through design, development, and creativity.</p>
+  <p>Our goal is to deliver work that is meaningful, clean, and easy to use.</p>
+</section>
+
+<!-- Services -->
+<section id="services">
+  <h2>What We Do</h2>
+
+  <article>
+    <h3>Digital Strategy</h3>
+    <img src="images/digital.jpg" alt="Digital Strategy" width="300">
+    <p>We help brands plan and grow through smart digital ideas.</p>
+  </article>
+
+  <article>
+    <h3>Marketing</h3>
+    <img src="images/marketing.jpg" alt="Marketing" width="300">
+    <p>We create campaigns that connect businesses with their audience.</p>
+  </article>
+
+  <article>
+    <h3>Video Creation</h3>
+    <img src="images/video.jpg" alt="Video Production" width="300">
+    <p>We produce videos that tell stories and promote ideas clearly.</p>
+  </article>
+
+  <article>
+    <h3>Web Design</h3>
+    <img src="images/web.jpg" alt="Web Development" width="300">
+    <p>We build websites that are fast, modern, and user-friendly.</p>
+  </article>
+
+  <article>
+    <h3>Print & Branding</h3>
+    <img src="images/print.jpg" alt="Print Design" width="300">
+    <p>We create print materials and branding assets for businesses.</p>
+  </article>
+</section>
+
+<!-- Team -->
+<section id="team">
+  <h2>Meet the Team</h2>
+
+  <article>
+    <img src="images/john.jpg" alt="John Carter" width="250">
+    <h3>John Carter</h3>
+    <p>Founder & Lead Designer. John shapes the creative vision of the studio.</p>
+  </article>
+
+  <article>
+    <img src="images/bob.jpg" alt="Bob Smith" width="250">
+    <h3>Bob Smith</h3>
+    <p>Creative Director. Bob focuses on visual quality and brand direction.</p>
+  </article>
+</section>
+
+<!-- Contact -->
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Have a project in mind? Send us a message below.</p>
+
+  <form>
+    <label>Name:</label><br>
+    <input type="text" placeholder="Your Name"><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" placeholder="Your Email"><br><br>
+
+    <label>Message:</label><br>
+    <textarea placeholder="Your Message"></textarea><br><br>
+
+    <button type="submit">Send</button>
+  </form>
+
+  <!-- Hours -->
+  <h3>Business Hours</h3>
+  <table border="1">
+    <tr>
+      <th>Day</th>
+      <th>Time</th>
+    </tr>
+    <tr>
+      <td>Monday - Friday</td>
+      <td>9 AM - 6 PM</td>
+    </tr>
+    <tr>
+      <td>Saturday</td>
+      <td>10 AM - 4 PM</td>
+    </tr>
+    <tr>
+      <td>Sunday</td>
+      <td>Closed</td>
+    </tr>
+  </table>
+
+  <!-- Location -->
+  <h3>Our Location</h3>
+  <img src="images/map.jpg" alt="Office Location" width="400">
+</section>
+
+<!-- Footer -->
+<footer>
+  <p>© 2026 Bright Spark Studio. All rights reserved.</p>
+  <p>Images used for educational purposes.</p>
+</footer>
+
+</body>
+</html>
